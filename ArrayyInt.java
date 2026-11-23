@@ -1,5 +1,6 @@
 package solutionlab1;
 
+/** Fixed-capacity integer array with insertion and search operations. */
 public class ArrayyInt {
     private int[] a;
     private int currentNb;
