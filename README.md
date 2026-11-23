@@ -15,7 +15,7 @@ Data Structures practice in Java using a fixed-size array. The main exercise is 
 - `notes/ArrayInt_OriginalDraft.txt` - the first draft, preserved for learning
 
 ## Run in Eclipse
-Create a Java project and package named `solutionlab1`. Import the source files into that package and run `Main.java`. `ArrayInt.java` has been corrected so it no longer blocks compilation. Its original unfinished code remains available under `notes/`.
+Create a Java project and package named `solutionlab1`. Import the source files into that package and run `Main.java`. `ArrayInt.java` extends `ArrayyInt`; the early draft is available in `notes/` for reference.
 
 ## Practice cases
-Core array operations were corrected for full arrays, missing values, even-number averages and selection sorting. Try an empty array, a full array, inserting into the middle, searching for a missing value, and deleting from a one-element array. The lab is educational code, not a general-purpose collection library.
+The array class handles full-array insertion, missing values, even-number averages and selection sorting. Try an empty array, a full array, inserting into the middle, searching for a missing value, and deleting from a one-element array. The lab is educational code, not a general-purpose collection library.
