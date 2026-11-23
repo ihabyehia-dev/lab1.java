@@ -11,10 +11,11 @@ Data Structures practice in Java using a fixed-size array. The main exercise is 
 ## Files
 - `ArrayyInt.java` - array-based operations
 - `Main.java` - console demonstration
-- `ArrayInt.java` - an earlier draft kept as part of the lab history
+- `ArrayInt.java` - a small working class that reuses `ArrayyInt`
+- `notes/ArrayInt_OriginalDraft.txt` - the first draft, preserved for learning
 
 ## Run in Eclipse
-Create a Java project and package named `solutionlab1`. Import the source files into that package and run `Main.java`. **Note:** `ArrayInt.java` is an incomplete earlier draft and may need correcting or excluding before the whole repository compiles. The main exercise is in `ArrayyInt.java`.
+Create a Java project and package named `solutionlab1`. Import the source files into that package and run `Main.java`. `ArrayInt.java` has been corrected so it no longer blocks compilation. Its original unfinished code remains available under `notes/`.
 
 ## Practice cases
-Try an empty array, a full array, inserting into the middle, searching for a missing value, and deleting from a one-element array. The lab is educational code, not a general-purpose collection library.
+Core array operations were corrected for full arrays, missing values, even-number averages and selection sorting. Try an empty array, a full array, inserting into the middle, searching for a missing value, and deleting from a one-element array. The lab is educational code, not a general-purpose collection library.
